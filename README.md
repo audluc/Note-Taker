@@ -17,7 +17,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 You are required to submit the following:
 
-* The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.
+* The URL of the deployed application. This should be the link to the url provided by Heroku. 
+https://ancient-journey-92327.herokuapp.com/
 
 * The URL of the GitHub repository https://audluc.github.io/Note-Taker/
 
