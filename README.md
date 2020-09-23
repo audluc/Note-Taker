@@ -20,7 +20,7 @@ You are required to submit the following:
 * The URL of the deployed application. This should be the link to the url provided by Heroku. 
 https://ancient-journey-92327.herokuapp.com/
 
-* The URL of the GitHub repository https://audluc.github.io/Note-Taker/
+* The URL of the GitHub repository https://github.com/audluc/Note-Taker
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
