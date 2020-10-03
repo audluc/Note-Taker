@@ -2,7 +2,6 @@ const express = require("express")
 const fs = require("fs")
 const db = require("./db/db.json")
 const path = require("path")
-const { restart } = require("nodemon")
 const PORT = 3000
 const app = express()
 app.use(express.urlencoded({ extended: true }));
